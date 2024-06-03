@@ -8,6 +8,6 @@ As input to the algorithm shown above a collection with increasing numbers is us
 
 In addition to measuring the performance, the memory usage is measured as well (i.e. result collection and lambda expressions).
 
-- [Java Benchmark](java-benchmark)
-- [C++ Benchmark](cpp-benchmark)
-- [Golang Benchmark](golang-benchmark)
+- [Java Benchmark](https://github.com/volsch/collection-loop-java-benchmark)
+- [C++ Benchmark](https://github.com/volsch/collection-loop-cpp-benchmark)
+- [Golang Benchmark](https://github.com/volsch/collection-loop-golang-benchmark)
