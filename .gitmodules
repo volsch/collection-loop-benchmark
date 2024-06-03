@@ -1,0 +1,9 @@
+[submodule "java-benchmark"]
+	path = java-benchmark
+	url = git@github.com:volsch/collection-loop-java-benchmark.git
+[submodule "cpp-benchmark"]
+	path = cpp-benchmark
+	url = git@github.com:volsch/collection-loop-cpp-benchmark.git
+[submodule "golang-benchmark"]
+	path = golang-benchmark
+	url = git@github.com:volsch/collection-loop-golang-benchmark.git

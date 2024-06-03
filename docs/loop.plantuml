@@ -1,0 +1,12 @@
+@startuml loop
+start
+:create result collection;
+while (input has more values?) is (yes)
+  :get next input value;
+    if (value is even?) then (yes)
+      :add value to result;
+    else (no)
+    endif
+endwhile (no)
+stop
+@enduml
